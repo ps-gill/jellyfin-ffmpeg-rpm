@@ -1,7 +1,7 @@
 Name:           jellyfin-ffmpeg-bin
 Summary:        FFmpeg for Jellyfin
 Version:        6.0
-Release:        7
+Release:        8
 License:        GPL3
 URL:            https://github.com/jellyfin/jellyfin-ffmpeg
 Conflicts:      jellyfin-ffmpeg
